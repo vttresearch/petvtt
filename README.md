@@ -2,9 +2,9 @@
 
 This repository contains Pan-European TIMES-VTT energy system model compiled with The TIMES (The Integrated MARKAL-EFOM System) model generator developed by IEA-ETSAP.
 PET-VTT is developed by Technical Research Centre of Finland Ltd and is based on JRC-EU-TIMES by Join Reserach Centre of the European Commission © European Union, 1995-2019, CC BY 4.0., available at https://data.jrc.ec.europa.eu/collection/id-00287 
-Changes to the original model have been made: List of changes are introduced at the end of this file, and changes are marked with color coding to the database.
+Changes to the original model have been made: List of changes are introduced in a separate changelog file, and changes are marked with color coding to the database.
 
-The work was funded by the financial support for the green transition by the European Union (number 151, P5C1I2, NextGenerationEU, project REPower-CEST).
+The work was funded by the financial support for the green transition by the European Union (number 151, P5C1I2, NextGenerationEU, project REPower-CEST) and EU H2020 (project NEGEM, 869192.
 
 # Authors and acknowledgments
 
@@ -36,30 +36,13 @@ Use with VEDA & GAMS.
 - GAMS https://www.gams.com/
 - TIMES modelling framework https://iea-etsap.org/index.php/etsap-tools/model-generators/times
 
-# List of model updates
+The database contains one scenario to begin your own work with. Note that the scenario is not an EU reference scenario, and it is intended as a starting point for your own scenario modelling. 
+The scenario is labelled as EUnetzero, as it includes a net zero CO2 emission assumption for the year 2050 for the aggregate EU region. 
 
-Model updates made to the first published version of PET-VTT (until 12/2025):
-More detailes of changes will be added soon.
+# Changelog
 
-- Lot of bug fixes, introduced in scen-file ZZ_ModelFix.
-- Residential and commercial heat energy use calibrated to Eurostat statistics until 2025.
-- Heat pump technologies added for district heating.
-- Biomass feedstocks (BIOWOO) disaggregated for more detailed division of the Limited feedstock for suitable processes.
-- RED III, REFuelEU Aviation and Maritime directives introduced to the model to large extent.
-- Includes targets for renewable hydrogen use, RFNBOs and biofuel shares of transport fuels.
-- ETS1 and ETS2 WEM/WAM prices updated to match EC's recommendations from 2024.
-- Solid sorbent DAC technology added.
-- Disaggregation of captured CO2 commodity to fossil (SNKFCO2) and non-fossil components (SNKCO2N).
-- CO2 storage annual and cumulative potentials updated.
-- Soil carbon sequestration in organic and inorganic soils added.
-- Afforestartion and reforestration regional potentials added.
-- Biochar soil amemdment process and regional upper potentials added.
-- Enhanced rock weathering process and regional potentials added.
-- Lot of bug fixes, introduced in scen-file ZZ_ModelFix.
-- Transport demands partially updated.
-- Added options to replace fossil oil with biofuel or RFNBO in agriculture, buildings. 
-
+Changes to the model files and new added model files are listed in a separate changelog file.
 For more details, contact johanna.markkanen@vtt.fi or antti.lehtila@vtt.fi
 
-
-Original model files © European Union, 1995-2019, CC BY 4.0.
+New model files © VTT Technical Research Centre of Finland Ltd 2023-2026 CC BY 4.0.
+Original model files © European Union 1995-2019 CC BY 4.0.
