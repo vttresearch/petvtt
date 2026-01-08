@@ -1,0 +1,14 @@
+scaind 0
+rerun yes
+iis yes
+feasopt 0
+feasoptmode 0
+lpmethod 4
+baralg 2
+predual -1
+barcrossalg -1
+solutiontype 2
+barorder 3
+THREADS=8
+aggind 5
+Names 1

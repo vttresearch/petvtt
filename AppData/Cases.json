@@ -1,0 +1,56 @@
+[
+  {
+    "CaseId": 45,
+    "CreatedOn": "2025-07-30 07:00",
+    "Description": "EU scenario net zero 2050",
+    "EditedOn": "2026-01-07 15:47",
+    "EndingYear": "2055",
+    "FixResultFileName": "False",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": null,
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "",
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": false
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.9.2",
+    "Name": "EUnetzero",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "msy11_2060",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 75,
+    "RegionGroup": "EU-31",
+    "RegionGroupId": 104,
+    "ScenarioGroup": "EUnetzero",
+    "ScenarioGroupId": 133,
+    "Solver": "cplex",
+    "SolverOptionFile": "CPLEX-PETVTT",
+    "UserName": "johannamar",
+    "ModelFramework": "Times"
+  }
+]
