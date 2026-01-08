@@ -24,9 +24,9 @@ https://creativecommons.org/licenses/by/4.0/
 
 # Citation
 
-Markkanen J, Lehtilä A, Kellomäki J, Koponen K, Rämä M, Lindroos T, Koljonen T. Pan-European TIMES-VTT Energy system model.
+Markkanen J, Lehtilä A, Kellomäki J, Koponen K, Rämä M, Lindroos T, Koljonen T. Pan-European TIMES-VTT Energy system model. Release PET-VTT v1.0 https://doi.org/10.5281/zenodo.18183014
 
-DOI will be added soon.
+[![DOI](https://zenodo.org/badge/1112885550.svg)](https://doi.org/10.5281/zenodo.18183014)
 
 # Use and more information
 
