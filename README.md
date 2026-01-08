@@ -1,7 +1,7 @@
 ﻿# PET-VTT
 
 This repository contains Pan-European TIMES-VTT (abbreviated PET-VTT) energy system model compiled with The TIMES (The Integrated MARKAL-EFOM System) model generator developed by IEA-ETSAP.
-PET-VTT is developed by Technical Research Centre of Finland Ltd and is based on JRC-EU-TIMES by Join Reserach Centre of the European Commission © European Union, 1995-2019, CC BY 4.0., available at https://data.jrc.ec.europa.eu/collection/id-00287 
+PET-VTT is developed by Technical Research Centre of Finland Ltd and is based on JRC-EU-TIMES by Joint Research Centre of the European Commission © European Union, 1995-2019, CC BY 4.0., available at https://data.jrc.ec.europa.eu/collection/id-00287 
 Changes to the original model have been made: List of changes are introduced in a separate changelog file, and changes are marked with color coding to the database.
 
 The work was funded by the financial support for the green transition by the European Union (number 151, P5C1I2, NextGenerationEU, project REPower-CEST) and EU H2020 (project NEGEM, 869192.
